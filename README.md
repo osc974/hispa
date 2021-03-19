@@ -1,928 +1,612 @@
-#EXTM3U#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Spain =====" tvg-logo="" group-title="",===== Spain =====
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1197
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: M. Campeones UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Campeones UHD 4K
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34560
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN F1 UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN F1 UHD 4K
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34561
-#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="VIP ES: M. Laliga UHD 4K" tvg-logo="" group-title="Live: Spain",VIP ES: M. Laliga UHD 4K
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/30737
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Canal Orange FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Orange FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63097
-#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="Live: Spain",ES: LA 1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3364
-#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: LA 2" tvg-logo="" group-title="Live: Spain",ES: LA 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/622
-#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: ANTENA3 HD" tvg-logo="[" group-title="Live: Spain",ES: ANTENA3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3383
-#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: CUATRO FHD" tvg-logo="" group-title="Live: Spain",ES: CUATRO FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3391
-#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: TELECINCO HD" tvg-logo="[" group-title="Live: Spain",ES: TELECINCO HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3384
-#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: LA SEXTA FHD" tvg-logo="[" group-title="Live: Spain",ES: LA SEXTA FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3392
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: 7RM FHD" tvg-logo="[" group-title="Live: Spain",ES: 7RM FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23076
-#EXTINF:-1 tvg-ID="8 tv ES" tvg-name="ES: 8TV Madrid" tvg-logo="" group-title="Live: Spain",ES: 8TV Madrid
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1090
-#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos SD" tvg-logo="" group-title="Live: Spain",ES: # Vamos SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34551
-#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos" tvg-logo="" group-title="Live: Spain",ES: # Vamos
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1085
-#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos FHD" tvg-logo="[" group-title="Live: Spain",ES: # Vamos FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23061
-#EXTINF:-1 tvg-ID="vamos.es" tvg-name="ES: # Vamos HD" tvg-logo="" group-title="Live: Spain",ES: # Vamos HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3372
-#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34556
-#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 1" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34557
-#EXTINF:-1 tvg-ID="" tvg-name="ES: # Vamos BAR 2" tvg-logo="" group-title="Live: Spain",ES: # Vamos BAR 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34558
-#EXTINF:-1 tvg-ID="dcineespanol.es" tvg-name="ES: #0" tvg-logo="" group-title="Live: Spain",ES: #0
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/635
-#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD" tvg-logo="" group-title="Live: Spain",ES: #O HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2401
-#EXTINF:-1 tvg-ID="Number 0 ES" tvg-name="ES: #O HD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: #O HD FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23060
-#EXTINF:-1 tvg-ID="24horas.es" tvg-name="ES: 24 HORAS" tvg-logo="" group-title="Live: Spain",ES: 24 HORAS
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2630
-#EXTINF:-1 tvg-ID="aande.es" tvg-name="ES: A&E" tvg-logo="[" group-title="Live: Spain",ES: A&E
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2643
-#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3 Series" tvg-logo="[" group-title="Live: Spain",ES: A3 Series
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12630
-#EXTINF:-1 tvg-ID="atreseries.es" tvg-name="ES: A3Series HD" tvg-logo="[" group-title="Live: Spain",ES: A3Series HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19208
-#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC" tvg-logo="[" group-title="Live: Spain",ES: AMC
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2638
-#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AMC FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23020
-#EXTINF:-1 tvg-ID="amc.es" tvg-name="ES: AMC HD" tvg-logo="" group-title="Live: Spain",ES: AMC HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3371
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Andalucia TV" tvg-logo="" group-title="Live: Spain",ES: Andalucia TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1440
-#EXTINF:-1 tvg-ID="antena3.es" tvg-name="ES: Antena3" tvg-logo="" group-title="Live: Spain",ES: Antena3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1097
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Aragon" tvg-logo="" group-title="Live: Spain",ES: Aragon
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8211
-#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN FHD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23059
-#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: AXN HD" tvg-logo="[""]" group-title="Live: Spain",ES: AXN HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3385
-#EXTINF:-1 tvg-ID="axn.es" tvg-name="ES: Axn Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn Spain
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/641
-#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN White FHD" tvg-logo="[" group-title="Live: Spain",ES: AXN White FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23058
-#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="Live: Spain",ES: AXN WHITE HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3366
-#EXTINF:-1 tvg-ID="axnwhite.es" tvg-name="ES: Axn White Spain" tvg-logo="[""]" group-title="Live: Spain",ES: Axn White Spain
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/640
-#EXTINF:-1 tvg-ID="babytv.es" tvg-name="ES: Baby TV" tvg-logo="" group-title="Live: Spain",ES: Baby TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23074
-#EXTINF:-1 tvg-ID="barcatv.es" tvg-name="ES: Barca TV FHD" tvg-logo="" group-title="Live: Spain",ES: Barca TV FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/639
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Esport 3" tvg-logo="[" group-title="Live: Spain",VIP ES: Esport 3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/20620
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Betis TV" tvg-logo="[" group-title="Live: Spain",VIP ES: Betis TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26927
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Realmadrid TV FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: Realmadrid TV FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26929
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Sevilla FC" tvg-logo="" group-title="Live: Spain",VIP ES: Sevilla FC
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42077
-#EXTINF:-1 tvg-ID="bemad.es" tvg-name="ES: Be MAD TV HD" tvg-logo="[""]" group-title="Live: Spain",ES: Be MAD TV HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19209
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. LaLiga FHD (Multi-Audio)" tvg-logo="" group-title="Live: Spain",VIP ES: M. LaLiga FHD (Multi-Audio)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63095
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga H265" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/49814
-#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga FHD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23057
-#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga HD" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19207
-#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2409
-#EXTINF:-1 tvg-ID="beinlaliga.es" tvg-name="ES: M. LaLiga SD" tvg-logo="" group-title="Live: Spain",ES: M. LaLiga SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/33150
-#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLIga 1 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 1 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/7181
-#EXTINF:-1 tvg-ID="beinlaliga1.es" tvg-name="ES: M. LaLiga 1FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 1FHD (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23105
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 2 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 2 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/7182
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLiga 2FHD (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLiga 2FHD (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23104
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 3 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/7183
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 3FHD (event only)" tvg-logo="" group-title="Live: Spain",ES: M. LaLIga 3FHD (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34550
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 4 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 4 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23103
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 5 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 5 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23102
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 6 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 6 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23101
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 7 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 7 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23100
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. LaLIga 8 (event only)" tvg-logo="[" group-title="Live: Spain",ES: M. LaLIga 8 (event only)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23099
-#EXTINF:-1 tvg-ID="blaze.es" tvg-name="ES: BLAZE" tvg-logo="" group-title="Live: Spain",ES: BLAZE
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23075
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Bom Cine" tvg-logo="" group-title="Live: Spain",VIP ES: Bom Cine
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42078
-#EXTINF:-1 tvg-ID="boing.es" tvg-name="ES: Boing" tvg-logo="[""]" group-title="Live: Spain",ES: Boing
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2211
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Bom Cine HD" tvg-logo="[" group-title="Live: Spain",ES: Bom Cine HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23073
-#EXTINF:-1 tvg-ID="crimeinvestigation.es" tvg-name="ES: C&I" tvg-logo="[""]" group-title="Live: Spain",ES: C&I
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8209
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Cadena Ser" tvg-logo="" group-title="Live: Spain",ES: Cadena Ser
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23072
-#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: Calle 13" tvg-logo="" group-title="Live: Spain",ES: Calle 13
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1096
-#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CALLE 13 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23056
-#EXTINF:-1 tvg-ID="calle13.es" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="Live: Spain",ES: CALLE 13 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3368
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Canal Coccina" tvg-logo="" group-title="Live: Spain",ES: Canal Coccina
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1103
-#EXTINF:-1 tvg-ID="canaldecasa.es" tvg-name="ES: Canal Decasa" tvg-logo="" group-title="Live: Spain",ES: Canal Decasa
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2632
-#EXTINF:-1 tvg-ID="canalsur.es" tvg-name="ES: Canal Sur FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Canal Sur FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23070
-#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: Caza y pesca" tvg-logo="[" group-title="Live: Spain",ES: Caza y pesca
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1102
-#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="[""]" group-title="Live: Spain",ES: CAZA Y PESCA FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23055
-#EXTINF:-1 tvg-ID="cazapesca.es" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="Live: Spain",ES: CAZA Y PESCA HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8206
-#EXTINF:-1 tvg-ID="clantve.es" tvg-name="ES: Clan Tve" tvg-logo="" group-title="Live: Spain",ES: Clan Tve
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1100
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Classica" tvg-logo="[""]" group-title="Live: Spain",ES: Classica
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2637
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CMM TV" tvg-logo="" group-title="Live: Spain",ES: CMM TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23069
-#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: Comedy Central" tvg-logo="[" group-title="Live: Spain",ES: Comedy Central
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2633
-#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="[" group-title="Live: Spain",ES: COMEDY CENTRAL FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23054
-#EXTINF:-1 tvg-ID="comedycentral.es" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="Live: Spain",ES: COMEDY CENTRAL HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3386
-#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO FHD" tvg-logo="[""]" group-title="Live: Spain",ES: COSMO FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23053
-#EXTINF:-1 tvg-ID="cosmo.es" tvg-name="ES: COSMO HD" tvg-logo="" group-title="Live: Spain",ES: COSMO HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3387
-#EXTINF:-1 tvg-ID="cuatro.es" tvg-name="ES: Cuatro hd" tvg-logo="" group-title="Live: Spain",ES: Cuatro hd
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/627
-#EXTINF:-1 tvg-ID="dark.es" tvg-name="VIP ES: DARK" tvg-logo="[" group-title="Live: Spain",VIP ES: DARK
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/656
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DARK FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DARK FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42079
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOL Musica" tvg-logo="[" group-title="Live: Spain",VIP ES: SOL Musica
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23064
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: SOL Musica FHD" tvg-logo="" group-title="Live: Spain",VIP ES: SOL Musica FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42571
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOMOS" tvg-logo="[" group-title="Live: Spain",VIP ES: SOMOS
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/20623
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: SOMOS FHD" tvg-logo="" group-title="Live: Spain",VIP ES: SOMOS FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42570
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM" tvg-logo="[" group-title="Live: Spain",VIP ES: XTRM
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8210
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: XTRM HD" tvg-logo="" group-title="Live: Spain",VIP ES: XTRM HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42083
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: BE MAD FHD" tvg-logo="" group-title="Live: Spain",VIP ES: BE MAD FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42582
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: BLAZE HD" tvg-logo="" group-title="Live: Spain",VIP ES: BLAZE HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42082
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CANAL COCINA HD" tvg-logo="" group-title="Live: Spain",VIP ES: CANAL COCINA HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42081
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CANAL DECASA HD" tvg-logo="" group-title="Live: Spain",VIP ES: CANAL DECASA HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/42080
-#EXTINF:-1 tvg-ID="odisea.es" tvg-name="VIP ES: CANAL ODISEA HD" tvg-logo="[" group-title="Live: Spain",VIP ES: CANAL ODISEA HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23022
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DISCOVERY FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: DISCOVERY FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23018
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DISNEY+ HD" tvg-logo="[" group-title="Live: Spain",VIP ES: DISNEY+ HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26930
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CLAN HD" tvg-logo="" group-title="Live: Spain",VIP ES: CLAN HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/39668
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: CAZAVISION" tvg-logo="" group-title="Live: Spain",VIP ES: CAZAVISION
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34559
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Historia HD" tvg-logo="" group-title="Live: Spain",VIP ES: Historia HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/39667
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: MEGA FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: MEGA FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12628
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: U-BEAT HD" tvg-logo="[" group-title="Live: Spain",VIP ES: U-BEAT HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26924
-#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 FHD" tvg-logo="[" group-title="Live: Spain",ES: DAZN F1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23037
-#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: DAZN F1 HD" tvg-logo="" group-title="Live: Spain",ES: DAZN F1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2570
-#EXTINF:-1 tvg-ID="movistarformula1.es" tvg-name="ES: Dazn F1" tvg-logo="[" group-title="Live: Spain",ES: Dazn F1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1087
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 1 H265" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 1 H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63909
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/64222
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 1 HD" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN BAR 1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23016
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 2 H265" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 2 H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63910
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 2 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/64223
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DAZN BAR 2 HD" tvg-logo="[" group-title="Live: Spain",VIP ES: DAZN BAR 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26568
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 3 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 3 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68191
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 3 HD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68189
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 4 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 4 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68192
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: DAZN BAR 4 HD" tvg-logo="" group-title="Live: Spain",VIP ES: DAZN BAR 4 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68190
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn (Pruebas)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn (Pruebas)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63101
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 1 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63104
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 1 HD (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 1 HD (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63102
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 2 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63105
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 2 HD (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 2 HD (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63103
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 3 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63106
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn 4 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn 4 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63107
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn HD" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63100
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Dazn HD 24/7" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn HD 24/7
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63099
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 01 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 01 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63108
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 02 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 02 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63109
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 03 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 03 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63110
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 04 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 04 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63111
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 05 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 05 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63112
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 06 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 06 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63113
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 07 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 07 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63114
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 08 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 08 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63115
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 09 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 09 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63116
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 10 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 10 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63117
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 11 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 11 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63118
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 12 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 12 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63119
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 13 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 13 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63120
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 14 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 14 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63121
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 15 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 15 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63122
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 16 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 16 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63123
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 17 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 17 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63124
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 18 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 18 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63125
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 19 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 19 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63126
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Dazn & Footters 20 (Eventos)" tvg-logo="" group-title="Live: Spain",VIP ES: Dazn & Footters 20 (Eventos)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63127
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63128
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63129
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 1 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 1 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63130
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 2 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63131
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63132
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 2 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 2 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63133
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 3 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63134
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63135
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 3 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 3 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63136
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 4 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63137
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 4 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63138
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 4 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 4 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63139
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 5 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63140
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 5 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63141
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 5 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 5 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63142
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 6 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63143
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 6 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63144
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 6 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 6 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63145
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 7 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63146
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 7 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63147
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 7 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 7 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63148
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 8 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63149
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 8 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63150
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 8 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 8 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63151
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 9 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63152
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 9 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63153
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 9 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 9 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63154
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 10 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63155
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 10 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63156
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 10 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 10 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63157
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 11 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 11 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63158
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 11 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 11 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63159
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 11 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 11 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63160
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 12 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 12 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63161
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 12 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 12 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63162
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 12 SD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 12 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63163
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 13 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 13 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63164
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Evento 14 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Evento 14 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63165
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Dcine" tvg-logo="" group-title="Live: Spain",ES: Dcine
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/634
-#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23052
-#EXTINF:-1 tvg-ID="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISCOVERY CHANNEL HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3376
-#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="[""]" group-title="Live: Spain",ES: DISNEY CHANNEL FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23051
-#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="Live: Spain",ES: DISNEY CHANNEL HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3382
-#EXTINF:-1 tvg-ID="disneychannel.es" tvg-name="ES: Disney Channel Spain" tvg-logo="[" group-title="Live: Spain",ES: Disney Channel Spain
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/633
-#EXTINF:-1 tvg-ID="disneyjunior.es" tvg-name="ES: Disney Junior" tvg-logo="[" group-title="Live: Spain",ES: Disney Junior
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12631
-#EXTINF:-1 tvg-ID="disneyxd.es" tvg-name="ES: DISNEY+" tvg-logo="" group-title="Live: Spain",ES: DISNEY+
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12632
-#EXTINF:-1 tvg-ID="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="" group-title="Live: Spain",ES: DIVINITY
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2218
-#EXTINF:-1 tvg-ID="dkiss.es" tvg-name="ES: DKiss" tvg-logo="" group-title="Live: Spain",ES: DKiss
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12633
-#EXTINF:-1 tvg-ID="discoverymax.es" tvg-name="ES: Dmax" tvg-logo="" group-title="Live: Spain",ES: Dmax
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2641
-#EXTINF:-1 tvg-ID="" tvg-name="ES: DW" tvg-logo="" group-title="Live: Spain",ES: DW
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12634
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: DreamWorks" tvg-logo="" group-title="Live: Spain",VIP ES: DreamWorks
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/39778
-#EXTINF:-1 tvg-ID="energy.es" tvg-name="ES: Energy" tvg-logo="" group-title="Live: Spain",ES: Energy
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1099
-#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23050
-#EXTINF:-1 tvg-ID="eurosport1.es" tvg-name="ES: EUROSPORT 1HD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 1HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8204
-#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="Live: Spain",ES: EUROSPORT 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8208
-#EXTINF:-1 tvg-ID="eurosport2.es" tvg-name="ES: EUROSPORT 2FHD" tvg-logo="[" group-title="Live: Spain",ES: EUROSPORT 2FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23049
-#EXTINF:-1 tvg-ID="canalextremadurasat.es" tvg-name="ES: ExtraMadura TV" tvg-logo="" group-title="Live: Spain",ES: ExtraMadura TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23067
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 1HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 1HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/20621
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB 2HD" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB 2HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26925
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: ETB Sat" tvg-logo="[" group-title="Live: Spain",VIP ES: ETB Sat
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/26926
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Footters" tvg-logo="" group-title="Live: Spain",VIP ES: Footters
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63098
-#EXTINF:-1 tvg-ID="factoriaficcion.es" tvg-name="ES: FDF" tvg-logo="" group-title="Live: Spain",ES: FDF
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1098
-#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: Fox" tvg-logo="[""]" group-title="Live: Spain",ES: Fox
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/631
-#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX FHD" tvg-logo="[" group-title="Live: Spain",ES: FOX FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23048
-#EXTINF:-1 tvg-ID="fox.es" tvg-name="ES: FOX HD" tvg-logo="" group-title="Live: Spain",ES: FOX HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3367
-#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE FHD" tvg-logo="[""]" group-title="Live: Spain",ES: FOX LIFE FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23047
-#EXTINF:-1 tvg-ID="foxlife.es" tvg-name="ES: FOX LIFE HD" tvg-logo="" group-title="Live: Spain",ES: FOX LIFE HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/6815
-#EXTINF:-1 tvg-ID="" tvg-name="ES: FOX News" tvg-logo="" group-title="Live: Spain",ES: FOX News
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23068
-#EXTINF:-1 tvg-ID="gol.es" tvg-name="VIP ES: GOL HD" tvg-logo="[" group-title="Live: Spain",VIP ES: GOL HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12640
-#EXTINF:-1 tvg-ID="gol.es" tvg-name="ES: GOL T" tvg-logo="" group-title="Live: Spain",ES: GOL T
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1084
-#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia" tvg-logo="[""]" group-title="Live: Spain",ES: Historia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/630
-#EXTINF:-1 tvg-ID="historia.es" tvg-name="ES: Historia FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Historia FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23023
-#EXTINF:-1 tvg-ID="" tvg-name="ES: HIT TV" tvg-logo="" group-title="Live: Spain",ES: HIT TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23066
-#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: Hollywood" tvg-logo="" group-title="Live: Spain",ES: Hollywood
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/629
-#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23046
-#EXTINF:-1 tvg-ID="hollywood.es" tvg-name="ES: HOLLYWOOD HD" tvg-logo="[""]" group-title="Live: Spain",ES: HOLLYWOOD HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3369
-#EXTINF:-1 tvg-ID="iberaliatv.es" tvg-name="ES: Iberlia TV" tvg-logo="" group-title="Live: Spain",ES: Iberlia TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2629
-#EXTINF:-1 tvg-ID="la1.es" tvg-name="ES: LA 1" tvg-logo="" group-title="Live: Spain",ES: LA 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/623
-#EXTINF:-1 tvg-ID="la2.es" tvg-name="ES: La 2 SD" tvg-logo="[""]" group-title="Live: Spain",ES: La 2 SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23025
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: LaLiga TV Bar FHD H265" tvg-logo="" group-title="Live: Spain",VIP ES: LaLiga TV Bar FHD H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63096
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR H265" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/49813
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR FHD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23045
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR SD" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR SD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34552
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR HD" tvg-logo="[" group-title="Live: Spain",ES: La Liga BAR HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/7180
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: La Liga BAR M1" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23065
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M2" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34553
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M3" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34554
-#EXTINF:-1 tvg-ID="" tvg-name="ES: La Liga BAR M4" tvg-logo="" group-title="Live: Spain",ES: La Liga BAR M4
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/34555
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="Live: Spain",ES: INTERECONOMIA
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12637
-#EXTINF:-1 tvg-ID="lasexta.es" tvg-name="ES: La Sexta hd" tvg-logo="[" group-title="Live: Spain",ES: La Sexta hd
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/628
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: Melilla TV" tvg-logo="" group-title="Live: Spain",ES: Melilla TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12636
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Levante TV" tvg-logo="" group-title="Live: Spain",ES: Levante TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2640
-#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion" tvg-logo="" group-title="Live: Spain",ES: M. Accion
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/638
-#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion FHD" tvg-logo="" group-title="Live: Spain",ES: M. Accion FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23042
-#EXTINF:-1 tvg-ID="movistaraccion.es" tvg-name="ES: M. Accion HD" tvg-logo="[" group-title="Live: Spain",ES: M. Accion HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2402
-#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Cine N" tvg-logo="[" group-title="Live: Spain",ES: M. Cine N
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/17207
-#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia" tvg-logo="" group-title="Live: Spain",ES: M. Comedia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/637
-#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia FHD" tvg-logo="" group-title="Live: Spain",ES: M. Comedia FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23043
-#EXTINF:-1 tvg-ID="movistarcomedia.es" tvg-name="ES: M. Comedia HD" tvg-logo="[" group-title="Live: Spain",ES: M. Comedia HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2403
-#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23041
-#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes HD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2407
-#EXTINF:-1 tvg-ID="movistardeportes.es" tvg-name="ES: M. Deportes" tvg-logo="" group-title="Live: Spain",ES: M. Deportes
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/636
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 1 FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23032
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 2" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23093
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 3" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23092
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 4" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 4
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23091
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 5" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 5
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23090
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Deportes 6" tvg-logo="[" group-title="Live: Spain",ES: M. Deportes 6
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23089
-#EXTINF:-1 tvg-ID="" tvg-name="ES: M. Deportes 7" tvg-logo="" group-title="Live: Spain",ES: M. Deportes 7
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23088
-#EXTINF:-1 tvg-ID="mdisney.es" tvg-name="ES: M. DISNEY" tvg-logo="[" group-title="Live: Spain",ES: M. DISNEY
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23031
-#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll" tvg-logo="" group-title="Live: Spain",ES: M. Doc&Roll
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1091
-#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23040
-#EXTINF:-1 tvg-ID="mcinedocandroll.es" tvg-name="ES: M. Doc&Roll HD" tvg-logo="[" group-title="Live: Spain",ES: M. Doc&Roll HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3388
-#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama FHD" tvg-logo="" group-title="Live: Spain",ES: M. Drama FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23039
-#EXTINF:-1 tvg-ID="moviestardrama.es" tvg-name="ES: M. Drama HD" tvg-logo="" group-title="Live: Spain",ES: M. Drama HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2404
-#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1094
-#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Estrenos FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23038
-#EXTINF:-1 tvg-ID="movistarestrenos.es" tvg-name="ES: M. Estrenos HD" tvg-logo="" group-title="Live: Spain",ES: M. Estrenos HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2405
-#EXTINF:-1 tvg-ID="movistarfutbol.es" tvg-name="ES: M. Futbol HD" tvg-logo="" group-title="Live: Spain",ES: M. Futbol HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2408
-#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1086
-#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M. Golf FHD" tvg-logo="[""]" group-title="Live: Spain",ES: M. Golf FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23036
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Sky Sports Premier League FHD" tvg-logo="[" group-title="Live: Spain",VIP ES: Sky Sports Premier League FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23071
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: M. Liga De Campeones FHD(Multi-Audio)" tvg-logo="" group-title="Live: Spain",VIP ES: M. Liga De Campeones FHD(Multi-Audio)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/63094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones FHD H265" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones FHD H265
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/49812
-#EXTINF:-1 tvg-ID="mligadecampeonesuhd.es" tvg-name="ES: M. Liga De Campeones FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23035
-#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones HD" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19206
-#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES: M. Liga De Campeones" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/6491
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1 FHD" tvg-logo="" group-title="Live: Spain",ES: M. Liga De Campeones 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1441
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 1" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19205
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 2" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19204
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 3" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19203
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 4" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 4
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19202
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 5" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 5
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19201
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 6" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 6
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23098
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 7" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 7
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19200
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M. Liga De Campeones 8" tvg-logo="[" group-title="Live: Spain",ES: M. Liga De Campeones 8
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/19199
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: M.CRIMEN" tvg-logo="" group-title="Live: Spain",ES: M.CRIMEN
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23077
-#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series" tvg-logo="[" group-title="Live: Spain",ES: M. Series
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1093
-#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23034
-#EXTINF:-1 tvg-ID="movistarseries.es" tvg-name="ES: M. Series HD" tvg-logo="" group-title="Live: Spain",ES: M. Series HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2406
-#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania FHD" tvg-logo="[" group-title="Live: Spain",ES: M. Series Mania FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23033
-#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. Series Mania HD" tvg-logo="" group-title="Live: Spain",ES: M. Series Mania HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3365
-#EXTINF:-1 tvg-ID="movistarseriesmania.es" tvg-name="ES: M. SeriesMania" tvg-logo="[" group-title="Live: Spain",ES: M. SeriesMania
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1095
-#EXTINF:-1 tvg-ID="movistargolf.es" tvg-name="ES: M.Golf  HD" tvg-logo="" group-title="Live: Spain",ES: M.Golf  HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3373
-#EXTINF:-1 tvg-ID="mega.es" tvg-name="ES: Mega HD" tvg-logo="[" group-title="Live: Spain",ES: Mega HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2217
-#EXTINF:-1 tvg-ID="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="Live: Spain",ES: MEZZO LIVE HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8205
-#EXTINF:-1 tvg-ID="mtv.es" tvg-name="ES: MTV Spana" tvg-logo="[" group-title="Live: Spain",ES: MTV Spana
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2213
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte" tvg-logo="" group-title="Live: Spain",ES: Multideporte
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12629
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 1" tvg-logo="" group-title="Live: Spain",ES: Multideporte 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23087
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 2" tvg-logo="" group-title="Live: Spain",ES: Multideporte 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23086
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 3" tvg-logo="" group-title="Live: Spain",ES: Multideporte 3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23085
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 4" tvg-logo="" group-title="Live: Spain",ES: Multideporte 4
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23084
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 5" tvg-logo="" group-title="Live: Spain",ES: Multideporte 5
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23083
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 6" tvg-logo="" group-title="Live: Spain",ES: Multideporte 6
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23082
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 7" tvg-logo="" group-title="Live: Spain",ES: Multideporte 7
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23081
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Multideporte 8" tvg-logo="" group-title="Live: Spain",ES: Multideporte 8
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23080
-#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: Nat Geo" tvg-logo="[" group-title="Live: Spain",ES: Nat Geo
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1101
-#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: Nat Geo Wild" tvg-logo="[""]" group-title="Live: Spain",ES: Nat Geo Wild
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/626
-#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NAT GEO WILD FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23030
-#EXTINF:-1 tvg-ID="natgeowild.es" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="Live: Spain",ES: NAT GEO WILD HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3389
-#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23029
-#EXTINF:-1 tvg-ID="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="[""]" group-title="Live: Spain",ES: NATIONAL GEOGRAPHIC HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3375
-#EXTINF:-1 tvg-ID="neox.es" tvg-name="ES: NEOX HD" tvg-logo="[" group-title="Live: Spain",ES: NEOX HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2216
-#EXTINF:-1 tvg-ID="nickjr.es" tvg-name="ES: Nick Jr" tvg-logo="[""]" group-title="Live: Spain",ES: Nick Jr
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12635
-#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON FHD" tvg-logo="" group-title="Live: Spain",ES: NICKELODEON FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23028
-#EXTINF:-1 tvg-ID="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="[""]" group-title="Live: Spain",ES: NICKELODEON HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/6817
-#EXTINF:-1 tvg-ID="nonstoppeople.es" tvg-name="ES: NONSTOPEOPLE" tvg-logo="" group-title="Live: Spain",ES: NONSTOPEOPLE
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/8207
-#EXTINF:-1 tvg-ID="nova.es" tvg-name="ES: NOVA" tvg-logo="" group-title="Live: Spain",ES: NOVA
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2214
-#EXTINF:-1 tvg-ID="odisea.es" tvg-name="ES: Odisea" tvg-logo="" group-title="Live: Spain",ES: Odisea
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2631
-#EXTINF:-1 tvg-ID="canalorbe21.es" tvg-name="ES: Orbe 21" tvg-logo="" group-title="Live: Spain",ES: Orbe 21
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2215
-#EXTINF:-1 tvg-ID="panda.pt" tvg-name="ES: Panda" tvg-logo="[""]" group-title="Live: Spain",ES: Panda
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23019
-#EXTINF:-1 tvg-ID="paramountchannel.es" tvg-name="ES: Paramount" tvg-logo="[""]" group-title="Live: Spain",ES: Paramount
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2642
-#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: RealMadrid TV" tvg-logo="" group-title="Live: Spain",ES: RealMadrid TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/632
-#EXTINF:-1 tvg-ID="realmadridtv.es" tvg-name="ES: Realmadrid TV HD" tvg-logo="[" group-title="Live: Spain",ES: Realmadrid TV HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/22796
-#EXTINF:-1 tvg-ID="" tvg-name="ES: Realmadrid TV ( English )" tvg-logo="" group-title="Live: Spain",ES: Realmadrid TV ( English )
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/30051
-#EXTINF:-1 tvg-ID="rtespanol.es" tvg-name="ES: RTVC" tvg-logo="" group-title="Live: Spain",ES: RTVC
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/17206
-#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV" tvg-logo="" group-title="Live: Spain",ES: Sundance TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12641
-#EXTINF:-1 tvg-ID="sundance.es" tvg-name="ES: Sundance TV FHD" tvg-logo="[""]" group-title="Live: Spain",ES: Sundance TV FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23027
-#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2639
-#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY FHD" tvg-logo="" group-title="Live: Spain",ES: SYFY FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23026
-#EXTINF:-1 tvg-ID="syfy.es" tvg-name="ES: SYFY HD" tvg-logo="[""]" group-title="Live: Spain",ES: SYFY HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/6814
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: RTV Andorra" tvg-logo="" group-title="Live: Spain",VIP ES: RTV Andorra
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/39665
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: TELE MADRID FHD" tvg-logo="" group-title="Live: Spain",VIP ES: TELE MADRID FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/39666
-#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23021
-#EXTINF:-1 tvg-ID="tcm.es" tvg-name="ES: TCM HD" tvg-logo="[""]" group-title="Live: Spain",ES: TCM HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3370
-#EXTINF:-1 tvg-ID="telecinco.es" tvg-name="ES: Telecinco" tvg-logo="[" group-title="Live: Spain",ES: Telecinco
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/624
-#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="VIP ES: TELEDEPORTE HD" tvg-logo="[" group-title="Live: Spain",VIP ES: TELEDEPORTE HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3374
-#EXTINF:-1 tvg-ID="teledeporte.es" tvg-name="ES: Teledeporte" tvg-logo="" group-title="Live: Spain",ES: Teledeporte
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1089
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: RTVCE Ceuta" tvg-logo="" group-title="Live: Spain",ES: RTVCE Ceuta
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23024
-#EXTINF:-1 tvg-ID="ten.es" tvg-name="ES: Ten" tvg-logo="" group-title="Live: Spain",ES: Ten
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12639
-#EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES: TNT" tvg-logo="[" group-title="Live: Spain",ES: TNT
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2634
-#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS FHD" tvg-logo="[""]" group-title="Live: Spain",ES: TOROS FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23079
-#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: TOROS HD" tvg-logo="" group-title="Live: Spain",ES: TOROS HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/6816
-#EXTINF:-1 tvg-ID="toros.es" tvg-name="ES: Torros" tvg-logo="" group-title="Live: Spain",ES: Torros
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1092
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: CANAL MALGA" tvg-logo="" group-title="Live: Spain",ES: CANAL MALGA
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23063
-#EXTINF:-1 tvg-ID="NULL" tvg-name="ES: TV Galicia" tvg-logo="" group-title="Live: Spain",ES: TV Galicia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/1429
-#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 Cataluña FHD" tvg-logo="[" group-title="Live: Spain",ES: TV3 Cataluña FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23062
-#EXTINF:-1 tvg-ID="tv3cataluny.es" tvg-name="ES: TV3 HD" tvg-logo="" group-title="Live: Spain",ES: TV3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/2210
-#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR FHD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/23078
-#EXTINF:-1 tvg-ID="viajar.es" tvg-name="ES: VIAJAR HD" tvg-logo="[""]" group-title="Live: Spain",ES: VIAJAR HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/3390
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35079
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 2 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35080
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 3 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 3 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35081
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 4 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 4 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35082
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 5 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 5 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35083
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 6 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 6 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35084
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 7 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 7 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35085
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 8 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 8 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35086
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 9 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 9 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35087
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 10 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 10 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35088
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 11 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 11 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35089
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 12 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 12 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35090
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 13 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 13 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35094
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 14 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 14 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35095
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 15 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 15 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35096
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 16 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 16 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35097
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 17 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 17 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35098
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP ES: Movistar Alquiler 18 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler 18 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35099
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 1 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 1 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35092
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Multivision 2 FHD" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Multivision 2 FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35093
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Movistar Alquiler Presentation" tvg-logo="" group-title="Live: Spain",VIP ES: Movistar Alquiler Presentation
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/35091
-#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 1" tvg-logo="" group-title="Live: Spain",ES: Alquiler 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12642
-#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 2" tvg-logo="" group-title="Live: Spain",ES: Alquiler 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12644
-#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 3" tvg-logo="" group-title="Live: Spain",ES: Alquiler 3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12645
-#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 4" tvg-logo="" group-title="Live: Spain",ES: Alquiler 4
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12646
-#EXTINF:-1 tvg-ID="alquiler5.es" tvg-name="ES: Alquiler 5" tvg-logo="" group-title="Live: Spain",ES: Alquiler 5
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12647
-#EXTINF:-1 tvg-ID="alquiler6.es" tvg-name="ES: Alquiler 6" tvg-logo="" group-title="Live: Spain",ES: Alquiler 6
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12648
-#EXTINF:-1 tvg-ID="alquiler1.es" tvg-name="ES: Alquiler 7" tvg-logo="" group-title="Live: Spain",ES: Alquiler 7
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12649
-#EXTINF:-1 tvg-ID="alquiler2.es" tvg-name="ES: Alquiler 8" tvg-logo="" group-title="Live: Spain",ES: Alquiler 8
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12650
-#EXTINF:-1 tvg-ID="alquiler3.es" tvg-name="ES: Alquiler 9" tvg-logo="" group-title="Live: Spain",ES: Alquiler 9
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12651
-#EXTINF:-1 tvg-ID="alquiler4.es" tvg-name="ES: Alquiler 10" tvg-logo="" group-title="Live: Spain",ES: Alquiler 10
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/12643
-#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Regional ES =========" tvg-logo="" group-title="",===== Regional ES =========
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68771
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 3/24 CAT" tvg-logo="" group-title="Live: Spain",VIP ES: 3/24 CAT
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68748
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 33 CAT" tvg-logo="" group-title="Live: Spain",VIP ES: 33 CAT
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68749
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 7 TeleValencia" tvg-logo="" group-title="Live: Spain",VIP ES: 7 TeleValencia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68705
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 7 TV Murcia" tvg-logo="" group-title="Live: Spain",VIP ES: 7 TV Murcia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68697
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 7 TV Murcia HD (1080P)" tvg-logo="" group-title="Live: Spain",VIP ES: 7 TV Murcia HD (1080P)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68696
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: 8TV Cádiz" tvg-logo="" group-title="Live: Spain",VIP ES: 8TV Cádiz
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68727
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: À Punt HD" tvg-logo="" group-title="Live: Spain",VIP ES: À Punt HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68703
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Alcarria TV" tvg-logo="" group-title="Live: Spain",VIP ES: Alcarria TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68728
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Aragon TV" tvg-logo="" group-title="Live: Spain",VIP ES: Aragon TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68764
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Aragón TV Deportes" tvg-logo="" group-title="Live: Spain",VIP ES: Aragón TV Deportes
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68700
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Betevé CAT" tvg-logo="" group-title="Live: Spain",VIP ES: Betevé CAT
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68747
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Bon Dia TV" tvg-logo="" group-title="Live: Spain",VIP ES: Bon Dia TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68732
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Costa TV" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Costa TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68695
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Diocesano Toledo" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Diocesano Toledo
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68729
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Málaga" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Málaga
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68706
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Parlamento" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Parlamento
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68699
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur 2 HD" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68754
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Andalucía" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Andalucía
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68753
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Andalucía HD (720P)" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Andalucía HD (720P)
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68752
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Cocina" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Cocina
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68755
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Eventos 1" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Eventos 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68759
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Eventos 2" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Eventos 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68760
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Flamenco" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Flamenco
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68757
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur HD" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68751
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur La Banda TV" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur La Banda TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68758
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Canal Sur Turismo" tvg-logo="" group-title="Live: Spain",VIP ES: Canal Sur Turismo
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68756
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Cancionero TV" tvg-logo="" group-title="Live: Spain",VIP ES: Cancionero TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68730
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Castilla La Mancha Media" tvg-logo="" group-title="Live: Spain",VIP ES: Castilla La Mancha Media
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68765
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CCMA Exclusiu 1" tvg-logo="" group-title="Live: Spain",VIP ES: CCMA Exclusiu 1
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68735
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: CCMA Exclusiu 2" tvg-logo="" group-title="Live: Spain",VIP ES: CCMA Exclusiu 2
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68736
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Condavisión HD" tvg-logo="" group-title="Live: Spain",VIP ES: Condavisión HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68698
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Extremadura TV" tvg-logo="" group-title="Live: Spain",VIP ES: Extremadura TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68763
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Galicia TV" tvg-logo="" group-title="Live: Spain",VIP ES: Galicia TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68762
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Hamaika TV" tvg-logo="" group-title="Live: Spain",VIP ES: Hamaika TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68712
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Hispan TV" tvg-logo="" group-title="Live: Spain",VIP ES: Hispan TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68770
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Huesca TV" tvg-logo="" group-title="Live: Spain",VIP ES: Huesca TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68731
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Imás TV HD" tvg-logo="" group-title="Live: Spain",VIP ES: Imás TV HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68733
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: InterAlmería HD" tvg-logo="" group-title="Live: Spain",VIP ES: InterAlmería HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68726
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 7 León" tvg-logo="" group-title="Live: Spain",VIP ES: La 7 León
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68738
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Ávila" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Ávila
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68743
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Bierzo" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Bierzo
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68741
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Burgos" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Burgos
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68742
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Mediterráneo HD" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Mediterráneo HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68767
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Valladolid" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Valladolid
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68740
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La 8 Zamora" tvg-logo="" group-title="Live: Spain",VIP ES: La 8 Zamora
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68739
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La Otra" tvg-logo="" group-title="Live: Spain",VIP ES: La Otra
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68768
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: La Voz 24h" tvg-logo="" group-title="Live: Spain",VIP ES: La Voz 24h
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68702
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Lancelot TV" tvg-logo="" group-title="Live: Spain",VIP ES: Lancelot TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68766
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Levante TV" tvg-logo="" group-title="Live: Spain",VIP ES: Levante TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68761
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Libertad Digital" tvg-logo="" group-title="Live: Spain",VIP ES: Libertad Digital
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68693
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: mtmad 24h" tvg-logo="" group-title="Live: Spain",VIP ES: mtmad 24h
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68701
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: NORTEvisión" tvg-logo="" group-title="Live: Spain",VIP ES: NORTEvisión
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68769
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Onda Algeciras TV" tvg-logo="" group-title="Live: Spain",VIP ES: Onda Algeciras TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68709
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Onda Cádiz" tvg-logo="" group-title="Live: Spain",VIP ES: Onda Cádiz
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68710
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Onda Valencia" tvg-logo="" group-title="Live: Spain",VIP ES: Onda Valencia
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68711
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Pequeradio TV" tvg-logo="" group-title="Live: Spain",VIP ES: Pequeradio TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68745
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: PTV Córdoba" tvg-logo="" group-title="Live: Spain",VIP ES: PTV Córdoba
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68725
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: PTV Málaga" tvg-logo="" group-title="Live: Spain",VIP ES: PTV Málaga
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68707
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Red TV" tvg-logo="" group-title="Live: Spain",VIP ES: Red TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68704
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Super3" tvg-logo="" group-title="Live: Spain",VIP ES: Super3
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68744
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TeleBilbao" tvg-logo="" group-title="Live: Spain",VIP ES: TeleBilbao
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68713
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Teleonuba TV" tvg-logo="" group-title="Live: Spain",VIP ES: Teleonuba TV
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68734
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Telesur HD" tvg-logo="" group-title="Live: Spain",VIP ES: Telesur HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68692
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Tenerife TV HD" tvg-logo="" group-title="Live: Spain",VIP ES: Tenerife TV HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68724
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: teve.cat HD" tvg-logo="" group-title="Live: Spain",VIP ES: teve.cat HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68750
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Trece" tvg-logo="" group-title="Live: Spain",VIP ES: Trece
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68694
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TV Benavente HD" tvg-logo="" group-title="Live: Spain",VIP ES: TV Benavente HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68708
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TV3. CAT" tvg-logo="" group-title="Live: Spain",VIP ES: TV3. CAT
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68746
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG 2 HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68715
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG América HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG América HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68720
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Cultura HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Cultura HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68718
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Eventos 1 HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Eventos 1 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68721
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Eventos 2 HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Eventos 2 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68722
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Eventos 3 HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Eventos 3 HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68723
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68714
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Infantil HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Infantil HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68716
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Momentos G HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Momentos G HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68719
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: TVG Musigal HD" tvg-logo="" group-title="Live: Spain",VIP ES: TVG Musigal HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68717
-#EXTINF:-1 tvg-ID="" tvg-name="VIP ES: Visión 6" tvg-logo="" group-title="Live: Spain",VIP ES: Visión 6
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/68737
-#EXTINF:-1 tvg-ID="NULL" tvg-name="VIP DE: RTL UHD" tvg-logo="[" group-title="Live: Germany",VIP DE: RTL UHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/30514
-#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL FHD" tvg-logo="[" group-title="Live: Germany",DE: RTL FHD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/9658
-#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL HD" tvg-logo="" group-title="Live: Germany",DE: RTL HD
-http://richard-magicland.xyz:8080/HYezCW7tk9/jMwzUf5F9D/125
+#EXTM3U#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1" tvg-logo="" group-title="Spain-TDT",ES | LA 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13660
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1 HD" tvg-logo="" group-title="Spain-TDT",ES | LA 1 HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13659
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1 FHD" tvg-logo="" group-title="Spain-TDT",ES | LA 1 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13658
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES | LA 2" tvg-logo="" group-title="Spain-TDT",ES | LA 2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13657
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES | La 2 FHD" tvg-logo="" group-title="Spain-TDT",ES | La 2 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13656
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | ANTENA 3" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13655
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | ANTENA 3 HD" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3 HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13654
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ES | ANTENA 3 FHD" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13653
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | CUATRO" tvg-logo="" group-title="Spain-TDT",ES | CUATRO
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13652
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | CUATRO HD" tvg-logo="" group-title="Spain-TDT",ES | CUATRO HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13651
+#EXTINF:-1 tvg-id="es.Cuatro" tvg-name="ES | CUATRO FHD" tvg-logo="" group-title="Spain-TDT",ES | CUATRO FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13650
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | TELECINCO" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13649
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | TELECINCO HD" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13648
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="ES | TELECINCO FULLHD" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13647
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13646
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA HD" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13645
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA  FHD" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA  FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13644
+#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES | 24 HORAS" tvg-logo="" group-title="Spain-TDT",ES | 24 HORAS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13643
+#EXTINF:-1 tvg-id="" tvg-name="************* MOVISTAR  **************" tvg-logo="" group-title="",************* MOVISTAR  **************
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13642
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="ES | MOVISTAR CERO SD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO SD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13641
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="ES | MOVISTAR CERO HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13640
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES | MOVISTAR CERO FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13639
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13638
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13637
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13636
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR  ACCION" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR  ACCION
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13635
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR ACCION HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ACCION HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13634
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR ACCION FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ACCION FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13633
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13632
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13631
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13630
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES | MOVISTAR DRAMA" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13629
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="ES | MOVISTAR DRAMA HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13628
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES | MOVISTAR DRAMA FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13627
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="ES | MOVISTAR DCINE Ñ" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DCINE Ñ
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13626
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13625
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13624
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13623
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13622
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD HD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13621
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD FHD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13620
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM" tvg-logo="" group-title="Spain-Movistar",ES | TCM
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13619
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM HD" tvg-logo="" group-title="Spain-Movistar",ES | TCM HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13618
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM FHD" tvg-logo="" group-title="Spain-Movistar",ES | TCM FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13617
+#EXTINF:-1 tvg-id="" tvg-name="ES | SUNDANCE" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13616
+#EXTINF:-1 tvg-id="" tvg-name="ES | SUNDANCE HD" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13615
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES | SUNDANCE Fullhd" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE Fullhd
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13614
+#EXTINF:-1 tvg-id="Dark" tvg-name="ES | DARK FHD" tvg-logo="" group-title="Spain-Movistar",ES | DARK FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13613
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES | XTREM" tvg-logo="" group-title="Spain-Movistar",ES | XTREM
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13612
+#EXTINF:-1 tvg-id="" tvg-name="ES | XTREM HD" tvg-logo="" group-title="Spain-Movistar",ES | XTREM HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13611
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES | XTREM FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | XTREM FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13610
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES | SOMOS FHD" tvg-logo="" group-title="Spain-Movistar",ES | SOMOS FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13609
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES | PARAMOUNT CHANNEL" tvg-logo="" group-title="Spain-Movistar",ES | PARAMOUNT CHANNEL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13608
+#EXTINF:-1 tvg-id="" tvg-name="************* SERIES  **************" tvg-logo="" group-title="",************* SERIES  **************
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13607
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13606
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES HD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13605
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES FULLHD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13604
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13603
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13602
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA FULLHD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13601
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | CALLE 13" tvg-logo="" group-title="Spain-series",ES | CALLE 13
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13600
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | CALLE 13 HD" tvg-logo="" group-title="Spain-series",ES | CALLE 13 HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13599
+#EXTINF:-1 tvg-id="Calle13.sp" tvg-name="ES | CALLE 13 FULLHD" tvg-logo="" group-title="Spain-series",ES | CALLE 13 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13598
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES | FOX" tvg-logo="" group-title="Spain-series",ES | FOX
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13597
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES | FOX HD" tvg-logo="" group-title="Spain-series",ES | FOX HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13596
+#EXTINF:-1 tvg-id="Fox.sp" tvg-name="ES | FOX FULLHD" tvg-logo="" group-title="Spain-series",ES | FOX FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13595
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES | FOX LIFE" tvg-logo="" group-title="Spain-series",ES | FOX LIFE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13594
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES | FOX LIVE HD" tvg-logo="" group-title="Spain-series",ES | FOX LIVE HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13593
+#EXTINF:-1 tvg-id="FoxLife.sp" tvg-name="ES | FOX LIFE FULLHD" tvg-logo="" group-title="Spain-series",ES | FOX LIFE FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13592
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="ES | AXN" tvg-logo="" group-title="Spain-series",ES | AXN
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13591
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="ES | AXN HD" tvg-logo="" group-title="Spain-series",ES | AXN HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13590
+#EXTINF:-1 tvg-id="AXNhd.sp" tvg-name="ES | AXN FULL HD" tvg-logo="" group-title="Spain-series",ES | AXN FULL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13589
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WHITE" tvg-logo="" group-title="Spain-series",ES | AXN WHITE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13588
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WAHITE HD" tvg-logo="" group-title="Spain-series",ES | AXN WAHITE HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13587
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WHITE FHD" tvg-logo="" group-title="Spain-series",ES | AXN WHITE FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13586
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC" tvg-logo="" group-title="Spain-series",ES | AMC
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13585
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC HD" tvg-logo="" group-title="Spain-series",ES | AMC HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13584
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC FHD" tvg-logo="" group-title="Spain-series",ES | AMC FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13583
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES | TNT" tvg-logo="" group-title="Spain-series",ES | TNT
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13582
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES | TNT HD" tvg-logo="" group-title="Spain-series",ES | TNT HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13581
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES | TNT FHD" tvg-logo="" group-title="Spain-series",ES | TNT FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13580
+#EXTINF:-1 tvg-id="Scifi.es" tvg-name="ES | SYFY" tvg-logo="" group-title="Spain-series",ES | SYFY
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13579
+#EXTINF:-1 tvg-id="Scifi.es" tvg-name="ES | SYFY HD" tvg-logo="" group-title="Spain-series",ES | SYFY HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13578
+#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES | SYFY FHD" tvg-logo="" group-title="Spain-series",ES | SYFY FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13577
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES | COSMOS" tvg-logo="" group-title="Spain-series",ES | COSMOS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13576
+#EXTINF:-1 tvg-id="" tvg-name="ES | COSMOS HD" tvg-logo="" group-title="Spain-series",ES | COSMOS HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13575
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES | COSMOPOLITAN  FULLHD" tvg-logo="" group-title="Spain-series",ES | COSMOPOLITAN  FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13574
+#EXTINF:-1 tvg-id="" tvg-name="ES | COMEDY CENTRAL" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13573
+#EXTINF:-1 tvg-id="" tvg-name="ES | COMEDY CENTRAL HD" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13572
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES | COMEDY CENTRAL FULLHD" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13571
+#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-name="ES | MTV" tvg-logo="" group-title="Spain-series",ES | MTV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13570
+#EXTINF:-1 tvg-id="FDF.es" tvg-name="ES | FDF" tvg-logo="" group-title="Spain-series",ES | FDF
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13569
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ES | A3SERIES" tvg-logo="" group-title="Spain-series",ES | A3SERIES
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13568
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES | MEGA" tvg-logo="" group-title="Spain-series",ES | MEGA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13567
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | ENERGY" tvg-logo="" group-title="Spain-series",ES | ENERGY
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13566
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES | DIVINITY" tvg-logo="" group-title="Spain-series",ES | DIVINITY
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13565
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="ES | CRIMEN  + INVESTIGACION" tvg-logo="" group-title="Spain-series",ES | CRIMEN  + INVESTIGACION
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13564
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA" tvg-logo="" group-title="Spain-series",ES | DECASA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13563
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA HD" tvg-logo="" group-title="Spain-series",ES | DECASA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13562
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA FULLHD" tvg-logo="" group-title="Spain-series",ES | DECASA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13561
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13560
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA HD" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13559
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA FULLHD" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13558
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD" tvg-logo="" group-title="Spain-series",ES | BE MAD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13557
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD HD" tvg-logo="" group-title="Spain-series",ES | BE MAD HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13556
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD FHD" tvg-logo="" group-title="Spain-series",ES | BE MAD FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13555
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES | NEOX" tvg-logo="" group-title="Spain-series",ES | NEOX
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13554
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | NOVA" tvg-logo="" group-title="Spain-series",ES | NOVA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13553
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | ODISEA FHD" tvg-logo="" group-title="Spain-series",ES | ODISEA FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13552
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="ES | BLAZE FHD" tvg-logo="" group-title="Spain-series",ES | BLAZE FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13551
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia HD CAZA" tvg-logo="" group-title="Spain-series",ES | Iberalia HD CAZA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13550
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES | Iberalia HD PESCA" tvg-logo="" group-title="Spain-series",ES | Iberalia HD PESCA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13549
+#EXTINF:-1 tvg-id="" tvg-name="************* INFANTILES  **************" tvg-logo="" group-title="",************* INFANTILES  **************
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13548
+#EXTINF:-1 tvg-id="DisneyJr.sp" tvg-name="ES | DISNEY JR" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY JR
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13547
+#EXTINF:-1 tvg-id="Disney+.es" tvg-name="ES | DISNEY CHANNEL" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13546
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ES | DISNEY CHANNEL HD" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13545
+#EXTINF:-1 tvg-id="DisneyChannel.sp" tvg-name="ES | DISNEY CHANNEL FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13544
+#EXTINF:-1 tvg-id="Disney+.es" tvg-name="ES | Disney+" tvg-logo="" group-title="Spain-Infantiles",ES | Disney+
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13543
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | CLAN" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13542
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | CLAN HD" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13541
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES | CLAN FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13540
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES | BOING" tvg-logo="" group-title="Spain-Infantiles",ES | BOING
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13539
+#EXTINF:-1 tvg-id="Panda.es" tvg-name="ES | CANAL PANDA" tvg-logo="" group-title="Spain-Infantiles",ES | CANAL PANDA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13538
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES | BABY  TV" tvg-logo="" group-title="Spain-Infantiles",ES | BABY  TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13537
+#EXTINF:-1 tvg-id="" tvg-name="ES | NICKELODEON" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13536
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES | NICKELODEON HD" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13535
+#EXTINF:-1 tvg-id="Nickelodeon.sp" tvg-name="ES | NICKELODEON FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13534
+#EXTINF:-1 tvg-id="NickJunior.sp" tvg-name="ES | NICK JR" tvg-logo="" group-title="Spain-Infantiles",ES | NICK JR
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13533
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES | HISTORIA" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13532
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES | HISTORIA HD" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13531
+#EXTINF:-1 tvg-id="Historia.sp" tvg-name="ES | HISTORIA FULLHD" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13530
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="ES | DISCOVERY  CHANNEL" tvg-logo="" group-title="Spain-TDT",ES | DISCOVERY  CHANNEL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13529
+#EXTINF:-1 tvg-id="Odisea.sp" tvg-name="ES | ODISEA" tvg-logo="" group-title="Spain-TDT",ES | ODISEA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13528
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES | NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAPHIC
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13527
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES | NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAPHIC HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13526
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES | NAT GEO FULLHD" tvg-logo="" group-title="Spain-TDT",ES | NAT GEO FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13525
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES | NATIONAL GEOGRAFIC WILD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13524
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES | NATIONAL GEOGRAFIC WILD HD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13523
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES | NATIONAL GEOGRAFIC WILD FULLHD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13522
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="ES | DMAX" tvg-logo="" group-title="Spain-TDT",ES | DMAX
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13521
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES | DKISS" tvg-logo="" group-title="Spain-TDT",ES | DKISS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13520
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES | TEN" tvg-logo="" group-title="Spain-TDT",ES | TEN
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13519
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="ES | BLAZE" tvg-logo="" group-title="Spain-TDT",ES | BLAZE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13518
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="ES | Viajar" tvg-logo="" group-title="Spain-TDT",ES | Viajar
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13517
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES | VIAJAR HD" tvg-logo="" group-title="Spain-TDT",ES | VIAJAR HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13516
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES | VIAJAR FULLHD" tvg-logo="" group-title="Spain-TDT",ES | VIAJAR FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13515
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA  Y PESCA" tvg-logo="" group-title="Spain-TDT",ES | CAZA  Y PESCA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13514
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA Y PESCA HD" tvg-logo="" group-title="Spain-TDT",ES | CAZA Y PESCA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13513
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA Y PESCA FULLHD" tvg-logo="" group-title="Spain-TDT",ES | CAZA Y PESCA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13512
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES | IBERALIA TV" tvg-logo="" group-title="Spain-TDT",ES | IBERALIA TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13511
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 1 ACCION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 1 ACCION
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13510
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 2 ANIMACION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 2 ANIMACION
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13509
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 3 CIENCIA FICCION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 3 CIENCIA FICCION
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13508
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 4 CRIMEN" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 4 CRIMEN
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13507
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 5 TERROR" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 5 TERROR
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13506
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 6 DRAMA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 6 DRAMA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13505
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 7 COMEDIA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 7 COMEDIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13504
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 8 ROMANCE" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 8 ROMANCE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13503
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 9 FAMILIA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 9 FAMILIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13502
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA STAR WARS" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA STAR WARS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13501
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA HARRY POTTER" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA HARRY POTTER
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13500
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA X-MEN" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA X-MEN
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13499
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA PLANETA DE LOS SIMIOS" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA PLANETA DE LOS SIMIOS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13498
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA Agente 007" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA Agente 007
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13497
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA SAW" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA SAW
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13496
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRIOLOGIA SEÑOR DE LOS ANILLOS" tvg-logo="" group-title="Spain-Infantiles",ES | TRIOLOGIA SEÑOR DE LOS ANILLOS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13495
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball GT" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball GT
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13494
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball Super" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball Super
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13493
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball Z" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball Z
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13492
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Los Caballeros del Zodiaco" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Los Caballeros del Zodiaco
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13491
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Mazinger Z" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Mazinger Z
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13490
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Aída" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Aída
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13489
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Castle" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Castle
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13488
+#EXTINF:-1 tvg-id="" tvg-name="************* DEPORTE  **************" tvg-logo="" group-title="",************* DEPORTE  **************
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13487
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN FOOTER 1" tvg-logo="" group-title="Spain-Deportes",ES | DAZN FOOTER 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13486
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN FOOTERS 2" tvg-logo="" group-title="Spain-Deportes",ES | DAZN FOOTERS 2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13485
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES | DAZN 1" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13484
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES | DAZN 2 FHD" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 2 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13483
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13482
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13481
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13480
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 6" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 6
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13479
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 7" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 7
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13478
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 8" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 8
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13477
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 9" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 9
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13476
+#EXTINF:-1 tvg-id="" tvg-name="ES | dazn 12  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | dazn 12  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13475
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 11" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 11
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13474
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 13" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 13
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13473
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 14" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 14
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13472
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 15" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 15
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13471
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn FHD" tvg-logo="" group-title="Spain-Deportes",ES | Dazn FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13470
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13469
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 16" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 16
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13468
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR #VAMOS" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR #VAMOS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13467
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13466
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13465
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES | LIGATV BAR FHD" tvg-logo="" group-title="Spain-Deportes",ES | LIGATV BAR FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13464
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LA LIGA" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13463
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LALIGA HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13462
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES | MOVISTAR LA LIGA FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13461
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (BACKUP)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (BACKUP)
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/34694
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (2K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (2K)
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13356
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA (4K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA (4K)
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13355
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13460
+#EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-name="ES | MOVISTAR LA LIGA 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13459
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR  LA LIGA 2" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13458
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR LA LIGA 2 FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 2 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13457
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR  LA LIGA 3" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 3
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13456
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13455
+#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES | MOVISTAR LA LIGA 4" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 4
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13454
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13453
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13452
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13451
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13450
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13449
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13448
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13447
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13446
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13445
+#EXTINF:-1 tvg-id="" tvg-name="ES | VIP - CHAMPIONS FHD - OP ADR" tvg-logo="" group-title="Spain-Deportes",ES | VIP - CHAMPIONS FHD - OP ADR
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13357
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="ES | MOVISTAR LIGA CAMPEONES 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13444
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="ES | MOVISTAR LIGA CAMPEONES 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 1 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13443
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13442
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="ES | MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13441
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13440
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13439
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13438
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13437
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13436
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13435
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13434
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13433
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es" tvg-name="ES | MOVISTAR DEPORTE FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13432
+#EXTINF:-1 tvg-id="" tvg-name="ES | MULTIDEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | MULTIDEPORTE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13431
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13430
+#EXTINF:-1 tvg-id="es.Movistar Deportes 1" tvg-name="ES | MOVISTAR DEPORTE 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 1 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13429
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13428
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13427
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13426
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13425
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13424
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13423
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES | EUROSPORT" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13422
+#EXTINF:-1 tvg-id="EurosportHD.es" tvg-name="ES | EUROSPORT HD" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13421
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="ES | EUROSPORT FULL HD" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT FULL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13420
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES | Eurosport  2" tvg-logo="" group-title="Spain-Deportes",ES | Eurosport  2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13419
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13418
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1 HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1 HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13417
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1 FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13416
+#EXTINF:-1 tvg-id="Golf.es" tvg-name="ES | MOVISTAR  GOLF" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  GOLF
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13415
+#EXTINF:-1 tvg-id="Golf.es" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR GOLF HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13414
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="ES | MOVISTAR GOLF FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR GOLF FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13413
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="ES | BARCA TV" tvg-logo="" group-title="Spain-Deportes",ES | BARCA TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13412
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="ES | BARCA TV FHD" tvg-logo="" group-title="Spain-Deportes",ES | BARCA TV FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13411
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES | REAL MADRID TV" tvg-logo="" group-title="Spain-Deportes",ES | REAL MADRID TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13410
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES | REAL MADRID FHD" tvg-logo="" group-title="Spain-Deportes",ES | REAL MADRID FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13409
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL TV" tvg-logo="" group-title="Spain-Deportes",ES | GOL TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13408
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL HD" tvg-logo="" group-title="Spain-Deportes",ES | GOL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13407
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL TV FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | GOL TV FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13406
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | TELEDEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | TELEDEPORTE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13405
+#EXTINF:-1 tvg-id="es.Telemadrid" tvg-name="ES | TELEDEPORTE FULL HD" tvg-logo="" group-title="Spain-Deportes",ES | TELEDEPORTE FULL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13404
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR  TOROS" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  TOROS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13403
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR TOROS HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR TOROS HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13402
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR TOROS FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR TOROS FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13401
+#EXTINF:-1 tvg-id="" tvg-name="************* AUTONOMICOS  **************" tvg-logo="" group-title="",************* AUTONOMICOS  **************
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13400
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="ES | ESPORT 3" tvg-logo="" group-title="Spain-Autonomicos",ES | ESPORT 3
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13399
+#EXTINF:-1 tvg-id="Trece.es" tvg-name="ES | TRECE" tvg-logo="" group-title="Spain-Autonomicos",ES | TRECE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13398
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | HIT TV" tvg-logo="" group-title="Spain-Autonomicos",ES | HIT TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13397
+#EXTINF:-1 tvg-id="8tv.es" tvg-name="ES | 8Tv" tvg-logo="" group-title="Spain-Autonomicos",ES | 8Tv
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13396
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ES | ARAGON TV" tvg-logo="" group-title="Spain-Autonomicos",ES | ARAGON TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13395
+#EXTINF:-1 tvg-id="" tvg-name="ES | SOL Music" tvg-logo="" group-title="Spain-Autonomicos",ES | SOL Music
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13394
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES | MEZZO LIVE" tvg-logo="" group-title="Spain-Autonomicos",ES | MEZZO LIVE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13393
+#EXTINF:-1 tvg-id="" tvg-name="ES | MEZZO LIVE FULL HD" tvg-logo="" group-title="Spain-Autonomicos",ES | MEZZO LIVE FULL HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13392
+#EXTINF:-1 tvg-id="" tvg-name="ES | 7RM FULLHD" tvg-logo="" group-title="Spain-Autonomicos",ES | 7RM FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13391
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | CANAL SUR" tvg-logo="" group-title="Spain-Autonomicos",ES | CANAL SUR
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13390
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | CANAL SUR FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | CANAL SUR FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13389
+#EXTINF:-1 tvg-id="CMM.es" tvg-name="ES | CMM FULLHD" tvg-logo="" group-title="Spain-Autonomicos",ES | CMM FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13388
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ES | ETB 1" tvg-logo="" group-title="Spain-Autonomicos",ES | ETB 1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13387
+#EXTINF:-1 tvg-id="ExtremaduraSAT.es" tvg-name="ES | EXTREMADURA TV" tvg-logo="" group-title="Spain-Autonomicos",ES | EXTREMADURA TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13386
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA OTRA" tvg-logo="" group-title="Spain-Autonomicos",ES | LA OTRA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13385
+#EXTINF:-1 tvg-id="" tvg-name="ES | INTERECONOMIA" tvg-logo="" group-title="Spain-Autonomicos",ES | INTERECONOMIA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13384
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES | TELEMADRID FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | TELEMADRID FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13383
+#EXTINF:-1 tvg-id="FOXNWS ASTRA SD 1.sp" tvg-name="ES | FOX NEWS" tvg-logo="" group-title="Spain-Autonomicos",ES | FOX NEWS
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13382
+#EXTINF:-1 tvg-id="324.es" tvg-name="ES | 3/24" tvg-logo="" group-title="Spain-Autonomicos",ES | 3/24
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13381
+#EXTINF:-1 tvg-id="" tvg-name="ES | 324 Exclusiu" tvg-logo="" group-title="Spain-Autonomicos",ES | 324 Exclusiu
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13380
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES | TV3" tvg-logo="" group-title="Spain-Autonomicos",ES | TV3
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13379
+#EXTINF:-1 tvg-id="" tvg-name="ES | Lebrija TV" tvg-logo="" group-title="Spain-Autonomicos",ES | Lebrija TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13378
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teleonuba" tvg-logo="" group-title="Spain-Autonomicos",ES | Teleonuba
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13377
+#EXTINF:-1 tvg-id="" tvg-name="ES | InterAlmería TV" tvg-logo="" group-title="Spain-Autonomicos",ES | InterAlmería TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13376
+#EXTINF:-1 tvg-id="" tvg-name="ES | PTV Málaga" tvg-logo="" group-title="Spain-Autonomicos",ES | PTV Málaga
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13375
+#EXTINF:-1 tvg-id="" tvg-name="ES | Condavisión" tvg-logo="" group-title="Spain-Autonomicos",ES | Condavisión
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13374
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES | CLASSICA" tvg-logo="" group-title="Spain-Autonomicos",ES | CLASSICA
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13373
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV 3 CAMERES" tvg-logo="" group-title="Spain-Autonomicos",ES | TV 3 CAMERES
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13372
+#EXTINF:-1 tvg-id="Panda.es" tvg-name="ES | CANAL PANDA FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | CANAL PANDA FULLHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13371
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mola TV" tvg-logo="" group-title="Spain-Autonomicos",ES | Mola TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13370
+#EXTINF:-1 tvg-id="Super3.es" tvg-name="ES | Super3/33" tvg-logo="" group-title="Spain-Autonomicos",ES | Super3/33
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13369
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES | TV3 FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | TV3 FHD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13368
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOM CINE" tvg-logo="" group-title="Spain-Taquillas",ES | BOM CINE
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13367
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA 1 HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA 1 HD
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13366
+#EXTINF:-1 tvg-id="VH1.es" tvg-name="ES | VH1" tvg-logo="" group-title="Spain-Autonomicos",ES | VH1
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13365
+#EXTINF:-1 tvg-id="" tvg-name="ES | FIBRACAT" tvg-logo="" group-title="Spain-Autonomicos",ES | FIBRACAT
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13364
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Juego de Tronos" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Juego de Tronos
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13363
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ES | ETB 2" tvg-logo="" group-title="Spain-Autonomicos",ES | ETB 2
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13362
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="ES | DISCOVERY CHANNEL" tvg-logo="" group-title="Spain-Autonomicos",ES | DISCOVERY CHANNEL
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13361
+#EXTINF:-1 tvg-id="BetisTV.es" tvg-name="ES | BETIS TV" tvg-logo="" group-title="Spain-Autonomicos",ES | BETIS TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13360
+#EXTINF:-1 tvg-id="" tvg-name="ES | SEVILLA TV" tvg-logo="" group-title="Spain-Autonomicos",ES | SEVILLA TV
+http://trialjet.org:8080/sandra789mf/so71z1wxkb/13359
